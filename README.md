@@ -10,7 +10,7 @@ I'm **Trung Hiếu**, a passionate Software Engineer with expertise in building 
 - **Other Tools:** Docker, Git
 
 ## 🚀 Featured Projects
-- [Expense App]([https://github.com/username/project1](https://github.com/hieudev99999/expense-app))
+- [Expense App](https://github.com/hieudev99999/expense-app)
 
 ## 📈 GitHub Stats
 ![Hiếu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieudev99999&show_icons=true&theme=radical)
