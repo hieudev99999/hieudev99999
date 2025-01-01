@@ -10,13 +10,10 @@ I'm **Trung Hiếu**, a passionate Software Engineer with expertise in building 
 - **Other Tools:** Docker, Git
 
 ## 🚀 Featured Projects
-- [E-commerce Platform](https://github.com/username/project1): Scalable online store using Spring Boot.
-- [Real-time Chat App](https://github.com/username/project2): Built with Node.js and Socket.IO.
+- [Expense App]([https://github.com/username/project1](https://github.com/hieudev99999/expense-app))
 
 ## 📈 GitHub Stats
 ![Hiếu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieudev99999&show_icons=true&theme=radical)
 
 ## 🌍 Connect with me:
-- [LinkedIn](https://linkedin.com/in/username)
-- [Portfolio](https://username.dev)
 - 📧 Email: hieudev99999@gmail.com
